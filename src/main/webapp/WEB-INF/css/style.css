@@ -1,0 +1,74 @@
+	body { 
+		background-color: #FFFFFF; 
+		color: #245080;
+		margin: 100px; 
+		font-family: Arial, Helvetica, sans-serif; 
+		text-align: center;
+    }
+	
+	.body-manage {
+		text-align: left;
+		margin: 0 10% 0;
+	}
+	
+	.header-manage {
+		margin: 100px; 
+		font-family: Arial, Helvetica, sans-serif; 
+		text-align: center;
+	}
+			
+	.img {
+		padding-bottom: 50px;
+	}
+			
+	.message {
+		color: red;
+	}
+			
+	.pink {
+   		background-color:  #E86989; 
+   		border: 2px solid  #E86989;
+   		width: 250px;
+	}
+
+	.blue {
+		background-color: #00B0F0; 
+		border: 2px solid #00B0F0;
+	}
+
+	.dark-blue {
+		background-color: #245080; 
+		border: 2px solid #245080;
+	}
+
+	.input {
+		font-size: 120%;
+   		cursor: pointer;
+   		color: white; 
+   		padding: 10px;
+   		border-radius: 20px;
+	}
+	
+	.input-index {
+		font-size: 100%;
+		color: white; 
+   		cursor: pointer;
+   		width: 250px;
+   		padding: 10px;
+   		border-radius: 20px;
+	}
+	
+	.upload-label {
+		background-color: #FFFFFF; 
+		font-size: 120%;
+   		cursor: pointer; 
+   		color: black; 
+   		padding: 10px;
+   		border: 2px solid #245080;
+   		border-radius: 25px;
+	}
+
+	
+	.plain-text{
+		color: #000000;
+	}
